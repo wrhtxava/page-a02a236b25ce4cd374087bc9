@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "be2886bd309bb0f8c323c466",
+  "owner": "wrhtxava",
+  "repo": "page-a02a236b25ce4cd374087bc9",
+  "title": "奈云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a02a236b25ce4cd374087bc9",
+      "a": "奈云",
+      "b": "",
+      "entity": "奈云",
+      "brand": "奈云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e2b1fa897d2a179ef57f202fb7eb13935dfa6bf31a11515a1f5a55626ac294ec",
+      "content": {
+        "keyword1": "奈云",
+        "keyword2": "",
+        "primary_entity": "奈云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "奈云提供稳定高速的网络加速与机场订阅服务，覆盖流媒体解锁、游戏加速与多设备协作，并在官网给出套餐说明、配置流程与客户端下载指引。",
+          "AI_DESCRIPTION": "奈云提供稳定高速的网络加速与机场订阅服务，覆盖流媒体解锁、游戏加速与多设备协作，并在官网给出套餐说明、配置流程与客户端下载指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#071422;--card:#0c2a3d;--text:#e8f6ff;--muted:#9ec5d8;--cyan:#2dd4bf;--cyan2:#67e8f9;--border:#164e63;}*{box-sizing:border-box;}html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.65;}body{max-width:100%;overflow-x:hidden;}a{color:var(--cyan2);text-decoration:none;}header{background:#051018;border-bottom:1px solid var(--border);} .wrap{max-width:40rem;margin:0 auto;padding:1rem 1.1rem 2.4rem;} .nav{display:flex;flex-wrap:wrap;gap:.55rem 1rem;align-items:center;justify-content:space-between;} .brand{font-weight:700;color:var(--cyan);font-size:1.12rem;} nav{display:flex;flex-wrap:wrap;gap:.45rem .85rem;font-size:.92rem;}h1{font-size:1.72rem;line-height:1.3;margin:1.35rem 0 .55rem;color:#fff;}h2{font-size:1.26rem;margin:1.75rem 0 .65rem;color:var(--cyan2);border-left:3px solid var(--cyan);padding-left:.55rem;}h3{font-size:1.05rem;margin:1rem 0 .35rem;color:#fff;} .lead{color:var(--muted);margin:0 0 1rem;} .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:1rem;margin:.75rem 0;} .card.feat{border-color:var(--cyan);background:#0b3336;} .price{font-size:1.32rem;font-weight:700;color:var(--cyan);} .annual{font-size:.9rem;color:var(--muted);}ul{padding-left:1.2rem;margin:.4rem 0;} .steps{list-style:none;padding:0;margin:0;counter-reset:s;} .steps li{counter-increment:s;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:1rem 1rem 1rem 3.15rem;margin:.65rem 0;position:relative;} .steps li:before{content:counter(s);position:absolute;left:.65rem;top:.95rem;width:1.7rem;height:1.7rem;border-radius:50%;background:var(--cyan);color:#042f2e;font-weight:700;text-align:center;line-height:1.7rem;}details{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:.7rem .95rem;margin:.5rem 0;}summary{font-weight:600;color:#fff;}details p{margin:.45rem 0 0;color:var(--muted);} .tag{display:inline-block;background:#115e59;color:var(--cyan2);font-size:.75rem;padding:.08rem .42rem;border-radius:4px;margin-left:.35rem;}footer{border-top:1px solid var(--border);color:var(--muted);font-size:.85rem;padding:1.15rem 0 2rem;} .links{display:flex;flex-wrap:wrap;gap:.45rem 1rem;margin-top:.45rem;} .map a{display:inline-block;margin:.15rem .7rem .15rem 0;}</style><header><div class=\"wrap nav\"><span class=\"brand\">奈云官网</span><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">问答</a></nav></div></header><main class=\"wrap\"><h1>奈云 高速网络加速与机场订阅</h1><p class=\"lead\">奈云官方网站集中说明套餐、使用场景、配置流程与客户端下载方式，帮助个人用户与团队快速完成订阅导入与节点连接。</p><section id=\"intro\"><h2>品牌简介</h2><p>奈云面向需要稳定跨境访问的用户，提供可按月或按年开通的机场订阅。节点覆盖日常浏览、流媒体播放与游戏加速，强调低延迟、可预期的流量配额，以及多设备同时在线。页面内容以开通后的实际操作为主线：选套餐、复制订阅、导入客户端、选择节点。</p><p>与含糊其辞的加速器宣传不同，奈云把套餐边界写清楚：流量上限、设备台数、线路类型与支持范围都可以在下方方案中对照。无论你是第一次使用梯子网络加速，还是从其他机场迁移，都可以按同一套步骤完成。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>三档方案共享同一套客户端导入方式，区别在流量、并发设备与线路质量。旗舰版适合把流媒体和游戏放在同一订阅里的用户；团队版面向需要统一管理和更高带宽的协作场景。</p><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card feat\"><h3>旗舰版 <span class=\"tag\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>在旗舰版与团队版节点上，按客户端分流规则把视频域名走代理，减少卡顿与地区限制提示。基础版覆盖常见内容站点，重度连播建议预留更高流量档。</p><h3>游戏与实时对战</h3><p>游戏加速依赖专线与邻近节点。打开客户端后先测延迟，再固定到一条稳定线路，避免频繁切换造成丢包。旗舰版对 IPLC 线路做了优先级排序，适合把延迟放在流量前面的玩家。</p><h3>远程办公与资料同步</h3><p>邮件、文档和代码仓库走代理时，建议开启规则分流，让局域网打印与内网服务直连。团队版可按部门划分设备额度，减少互相挤占会话。</p><h3>多设备日常使用</h3><p>手机、电脑和平板同时在线时，注意套餐设备上限。超出后旧会话会被挤下线，优先把常用设备留在订阅里，临时设备用完即移除。</p></section><section id=\"guide\"><h2>配置流程</h2><p>以下步骤按开通后的真实顺序排列，不依赖额外脚本。完成第五步即可开始使用奈云节点。</p><ol class=\"steps\"><li><h3>选择并开通套餐</h3><p>对照流量、设备数和线路类型选定基础版、旗舰版或团队版。年付可降低折合月费。开通完成后进入用户中心，确认套餐状态为有效。</p></li><li><h3>复制机场订阅地址</h3><p>在用户中心找到订阅或导入链接，整段复制。不要把链接发到公开群组。若客户端要求令牌，使用中心提供的专用字段，不要改写参数。</p></li><li><h3>下载对应客户端</h3><p>前往本页<a href=\"#download\">客户端下载</a>说明，按系统选择 Clash 系、Shadowrocket、Surge 或其他兼容订阅的客户端。只从官网或应用商店获取安装包，避免来路不明的修改版。</p></li><li><h3>导入订阅并更新节点</h3><p>打开客户端的订阅管理，粘贴链接并命名为奈云。立即更新一次节点列表，确认出现多个地区条目。更新失败时检查系统时间、剪贴板完整性与网络是否被本地代理循环占用。</p></li><li><h3>选择节点并启用分流</h3><p>按延迟排序选择一条可用节点，先访问普通网页确认连通，再打开流媒体或游戏。建议启用规则分流：国内直连、跨境走代理。连接成功后把常用配置保存为配置档，方便下次一键切换。</p></li></ol></section><section id=\"download\"><h2>客户端下载说明</h2><p>奈云订阅兼容主流代理客户端，官方网站不托管安装包文件，避免过期镜像。请按设备选择：</p><ul><li>Windows / macOS：使用 Clash 系图形客户端，导入订阅后开启系统代理或 TUN。</li><li>Android：使用支持订阅的 Clash 或同类应用，授权 VPN 权限后更新节点。</li><li>iOS：使用 Shadowrocket、Stash 或 Surge 等支持机场订阅的应用，从应用商店安装。</li><li>路由器与网关：在支持的固件中粘贴同样的订阅地址，注意设备数计入套餐上限。</li></ul><p>下载完成后回到配置流程第四步导入即可。若客户端提示协议不兼容，改用中心提供的 Clash / SIP008 等备选订阅格式，无需更换套餐。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>奈云是什么服务？</summary><p>奈云是网络加速与机场订阅服务，通过官方套餐提供可导入客户端的节点列表，用于跨境访问、流媒体播放和游戏加速。本页是套餐与操作说明的官方网站入口，不提供第三方破解或来路不明的客户端。</p></details><details><summary>如何完成客户端下载并开始使用？</summary><p>先开通套餐并复制订阅地址，再按系统从应用商店或开发者站点获取兼容客户端，最后在客户端内粘贴订阅、更新节点并连接。详细顺序见上方五步配置流程，通常几分钟内可以完成首次连通。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>轻度浏览与三台以内设备选基础版；需要原生流媒体、游戏专线和五台设备选旗舰版；设备超过五台、需要高带宽或定制路由选团队版。流量按自然月重置，年付只影响结算价格，不改变当月配额。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>流量用尽后新连接会失败或降速，待次月重置或升级套餐。设备超过上限时，新会话会挤掉最早登录的设备。可在用户中心解绑闲置终端，把额度留给正在使用的电脑和手机。</p></details><details><summary>奈云能否解锁流媒体？</summary><p>基础版覆盖常见内容站点的基础解锁；旗舰版与团队版强调全节点原生解锁，更适合长时间播放。实际效果还取决于客户端分流是否把视频域名走代理，以及是否选到对应地区的节点。</p></details><details><summary>节点延迟高或不稳定怎么办？</summary><p>先更新订阅，再按延迟筛选，避开午夜高峰的热门节点。游戏请优先使用标注专线或 IPLC 的条目，并关闭会抢占带宽的大文件下载。持续异常可提交工单，旗舰版与团队版享有更高处理优先级。</p></details><details><summary>订阅链接是否需要定期更换？</summary><p>正常使用不必频繁更换。若链接泄露、客户端被多人滥用或重置了令牌，应在用户中心重新生成订阅并在所有设备上替换。替换后旧链接会失效，请同步更新路由器等常驻设备。</p></details></section><section id=\"sitemap\"><h2>站点地图</h2><p class=\"map\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"wrap\"><p>奈云官方网站 · 套餐说明与配置流程 · 合作与媒体问询请通过用户中心工单联系。</p><div class=\"links\"><a href=\"#intro\">关于奈云</a><a href=\"#download\">官方下载指引</a><a href=\"#faq\">帮助问答</a><a href=\"#sitemap\">站点地图</a><a href=\"#\">服务条款</a><a href=\"#\">隐私说明</a></div></footer>",
+          "hash": "4e35de6b86c0d5791e27b7f269bb362be2f129b8bd3fb7d70912eef231877efc",
+          "seo": {
+            "title": "奈云官网 - VPN网络加速与机场订阅客户端下载",
+            "keywords": "奈云,奈云官网,奈云VPN,奈云机场,奈云加速器,网络加速,梯子,机场订阅,客户端下载",
+            "description": "奈云提供稳定高速的网络加速与机场订阅服务，覆盖流媒体解锁、游戏加速与多设备协作，并在官网给出套餐说明、配置流程与客户端下载指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nktuyob.cn",
+    "host": "p-ba313a5086.nktuyob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nktuyob.cn",
+      "url": "https://nktuyob.cn/",
+      "label": "茶猫(Teacat)",
+      "apex": "nktuyob.cn",
+      "kind": null,
+      "identity": "fwudkf/page-fe2e662e101aec50e30475a5"
+    },
+    {
+      "host": "creamdatajc.com",
+      "url": "https://creamdatajc.com/",
+      "label": "奈云",
+      "apex": "creamdatajc.com",
+      "kind": null,
+      "identity": "gcwduuufg/page-97ee0eb8a0fab066f7b03dd0"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "91c48a41a8d990eb647639cab179553ceae2a5cf44f92839658e1e15d472739c",
+    "sitemap.xml": "1c82c60ac852f000937b06e20756026614ec4684113bc14cf95e4acbb8ff3377",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "08f904d33ef191b49ae98d27ffe91c475151c4d223ad711606ec2597d98d2892",
+    "robots.txt": "bddde0b83aebfaf6a142a3dd6f13ec20c63beb0cd39e13d99d0043d3b7b6d83e",
+    "17152e0354b973c59e248a612caa5bf8.txt": "f0cc58c1e7c5710ef7f25b6051ca9608fb16d19839fd5c51e773bff4d4758707"
+  },
+  "revision": "55df8f863044d6edc5a8ac4217edfa37a080cb2d1b7c1260bf4799803024e683"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ba313a5086.nktuyob.cn/sitemap.xml
